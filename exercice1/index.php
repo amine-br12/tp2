@@ -45,6 +45,6 @@ echo "</div>";
 ?>
     
 </body>
-<script src="script.js"></script>
+<script src="exercice1/script.js"></script>
 
 </html>
