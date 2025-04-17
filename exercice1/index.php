@@ -13,7 +13,6 @@ require("Etudiant.php");
 $LesEtudiant=array();
 $LesEtudiant[0]=$Aymen;
 $LesEtudiant[1]=$Skander;
-$LesEtudiant[2]=$Hamza;
 echo "<div class='container'>";
 echo "<div class='row'>";
 
